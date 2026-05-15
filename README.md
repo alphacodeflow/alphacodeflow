@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Pavan
+I'm Neo
 
 Welcome to my GitHub profile repository.
 
