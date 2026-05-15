@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**alphacodeflow/alphacodeflow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Pavan
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile repository.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- 💻 Interested in software development
+- 🚀 Learning and building projects
+- 🌱 Exploring new technologies
+
+## Skills
+- Programming
+- Web Development
+- Problem Solving
+
+## Projects
+Check out my repositories to see what I’m working on.
+
+## Contact
+- GitHub: https://github.com/alphacodeflow
+
+Thanks for visiting!
